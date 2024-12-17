@@ -1,0 +1,15 @@
+ohSJSVQefPYjDAO1w%NZ
+
+
+
+m?N$m7)UvChF|\18
+
+
+
+
+
+$localhost = "b33_33178271_cytrack";
+$username = "b33_33178271";
+$password = "dominio181";
+$dbname = "sql203.byethost33.com";
+$store_url = "http://localhost/2Cytrack-master";
